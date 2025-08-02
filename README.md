@@ -32,7 +32,7 @@ Para instalar las dependencias:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
-
+```
 ---
 
 ## ▶️ Ejecución
@@ -78,3 +78,4 @@ El análisis se realizó en varias etapas:
 Este proyecto se distribuye bajo licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
 
 ---
+
