@@ -42,13 +42,13 @@ pip install pandas numpy matplotlib seaborn
 ---
 
 ## ▶️ Ejecución
-1. Clona este repositorio
+1. Clona este repositorio:
+
    ```bash
-  git clone git@github.com:xsebasx3/TelecomX_LATAM.git
+   git clone git@github.com:xsebasx3/TelecomX_LATAM.git
    ```
-o descarga los archivos.
+   o descarga los archivos.
 3. Abre el notebook TelecomX_LATAM.ipynb en Jupyter Notebook o Google Colab [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XW8GTzVoxfMzIyclCOfMBJtIg62gszhf?hl=es-ES)
-.
 4. Ejecuta todas las celdas en orden para:
   - Cargar y limpiar los datos.
   - Realizar análisis exploratorio.
