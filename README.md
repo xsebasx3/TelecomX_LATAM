@@ -82,14 +82,6 @@ El análisis se realizó en varias etapas:
 
 ---
 
-## 🛠️ Posibles problemas y soluciones
-   - Error al convertir account.Charges.Total a numérico: 
-       Asegurarse de limpiar valores vacíos y espacios antes de la conversión.
-   - Gráficos que no se muestran en PDF exportado desde Colab:
-        Usar la opción Archivo → Imprimir → Guardar como PDF.
-
----
-
 ## 📜 Licencia
    Este proyecto se distribuye bajo licencia MIT. Puedes usarlo, 
    modificarlo y distribuirlo libremente.
