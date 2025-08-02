@@ -1,7 +1,9 @@
 # 📊 Análisis de Evasión de Clientes – TelecomX
 
-Este proyecto analiza datos de clientes de una empresa de telecomunicaciones para identificar patrones relacionados con la evasión de clientes (*Churn*).  
-El objetivo es comprender qué factores influyen en la cancelación del servicio y proponer acciones estratégicas para reducirla.
+Este proyecto analiza datos de clientes de una empresa de telecomunicaciones 
+para identificar patrones relacionados con la evasión de clientes (*Churn*).  
+El objetivo es comprender qué factores influyen en la cancelación del servicio 
+y proponer acciones estratégicas para reducirla.
 
 ---
 
@@ -50,10 +52,10 @@ pip install pandas numpy matplotlib seaborn
    o descarga los archivos.
 3. Abre el notebook TelecomX_LATAM.ipynb en Jupyter Notebook o Google Colab [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XW8GTzVoxfMzIyclCOfMBJtIg62gszhf?hl=es-ES)
 4. Ejecuta todas las celdas en orden para:
-  - Cargar y limpiar los datos.
-  - Realizar análisis exploratorio.
-  - Generar visualizaciones.
-  - Obtener el informe final con conclusiones y recomendaciones.
+     - Cargar y limpiar los datos.
+     - Realizar análisis exploratorio.
+     - Generar visualizaciones.
+     - Obtener el informe final con conclusiones y recomendaciones.
 
 ---
 
@@ -80,8 +82,10 @@ El análisis se realizó en varias etapas:
 ---
 
 ## 🛠️ Posibles problemas y soluciones
- - Error al convertir account.Charges.Total a numérico: Asegurarse de limpiar valores vacíos y espacios antes de la conversión.
-- Gráficos que no se muestran en PDF exportado desde Colab: Usar la opción Archivo → Imprimir → Guardar como PDF.
+    - Error al convertir account.Charges.Total a numérico: 
+       Asegurarse de limpiar valores vacíos y espacios antes de la conversión.
+   - Gráficos que no se muestran en PDF exportado desde Colab:
+        Usar la opción Archivo → Imprimir → Guardar como PDF.
 
 ---
 
