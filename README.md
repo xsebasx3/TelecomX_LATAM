@@ -90,8 +90,8 @@ El análisis se realizó en varias etapas:
 ---
 
 ## 📜 Licencia
-      Este proyecto se distribuye bajo licencia MIT. Puedes usarlo, 
-      modificarlo y distribuirlo libremente.
+   Este proyecto se distribuye bajo licencia MIT. Puedes usarlo, 
+   modificarlo y distribuirlo libremente.
 
 ---
 
